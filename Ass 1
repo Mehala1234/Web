@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Resume</title>
+</head>
+<body>
+	<h1>My Resume</h1>
+	<!-- Create line -->
+	<hr>
+<h1>MEHALA DEVI A</h1>
+<p>  I am a dedicated, organized and methodical individual. I have good interpersonal skills, am an excellent team worker and am keen and very willind to learn and develop new skills  </p>
+<h2>Education</h2>
+<table><table border="1";>
+<!-- Table -->
+	<tbody>
+		<tr>
+			<td>B.E ECE</td>
+			<td>Sona College</td>
+			<td>90%</td>
+		</tr>
+		<tr>
+			<td>HSC</td>
+			<td>Our Lady School</td>
+			<td>83%</td>
+		</tr>
+		<tr>
+			<td>SSLC</td>
+			<td>Our Lady School</td>
+			<td>93%</td>
+		</tr>
+	</tbody>
+</table>
+<h3>Skills</h3>
+<ol>
+	<li>Python</li>
+	<li>Java</li>
+	<li>C</li>
+</ol>
+
+</body>
+</html>
